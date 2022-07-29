@@ -350,3 +350,4 @@ MigrationBackup/
 .ionide/
 /skinet/API/skinet.db-shm
 /skinet/API/skinet.db-wal
+/skinet/API/appsettings.json
